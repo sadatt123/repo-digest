@@ -29,7 +29,7 @@ We love new ideas! Please:
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/repo-digest.git
+git clone https://github.com/mverab/repo-digest.git
 cd repo-digest
 
 # Install with dev dependencies

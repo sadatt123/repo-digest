@@ -153,7 +153,7 @@ We welcome contributions! Here's how to get started:
 4. **📝 Commit** with clear messages: `git commit -m 'Add amazing feature'`
 5. **🚀 Push** and create a Pull Request
 
-**Good First Issues**: Look for `good-first-issue` labels in our [Issues](https://github.com/yourusername/repo-digest/issues)
+**Good First Issues**: Look for `good-first-issue` labels in our [Issues](https://github.com/mverab/repo-digest/issues)
 
 ## 🗺️ Roadmap
 
@@ -168,10 +168,10 @@ Vote on features by starring issues!
 
 ## 📈 GitHub Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/repo-digest?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/repo-digest?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/repo-digest)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/repo-digest)
+![GitHub stars](https://img.shields.io/github/stars/mverab/repo-digest?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mverab/repo-digest?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mverab/repo-digest)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mverab/repo-digest)
 
 ## 🏷️ Topics
 
