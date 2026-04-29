@@ -7,7 +7,7 @@ name = "repo-digest"
 version = "0.1.0"
 description = "Turn any repository into an AI-ready text bundle with safe defaults and rich analytics."
 readme = "README.md"
-authors = [{ name = "Your Name" }]
+authors = [{ name = "smartpro" }]
 license = { text = "MIT" }
 requires-python = ">=3.8"
 keywords = ["llm", "ai", "repository", "export", "text", "tokens", "tiktoken", "analysis"]
