@@ -3,7 +3,7 @@ requires = ["hatchling>=1.18"]
 build-backend = "hatchling.build"
 
 [project]
-name = "repo-digest"
+name = "SmartProStore"
 version = "0.1.0"
 description = "Turn any repository into an AI-ready text bundle with safe defaults and rich analytics."
 readme = "README.md"
